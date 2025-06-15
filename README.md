@@ -3,7 +3,7 @@ Main Campus
 
 ## Demo
 
-![Demo Video](main/Project%20Video.mp4)
+
 
 
 
